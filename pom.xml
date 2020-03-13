@@ -19,14 +19,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.geekidea</groupId>
-    <artifactId>spring-boot-plus</artifactId>
+    <groupId>com.wj</groupId>
+    <artifactId>insurance_wj</artifactId>
     <version>1.4.0</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-plus</name>
-    <description>spring-boot-plus Project</description>
-    <url>https://github.com/geekideaio/spring-boot-plus</url>
+    <name>insurance_wj</name>
+    <description>WJE Insurance Project</description>
+<!--    <url>https://github.com/geekideaio/spring-boot-plus</url>-->
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
@@ -35,9 +35,8 @@
     </licenses>
     <developers>
         <developer>
-            <id>spring-boot-plus</id>
-            <name>geekidea</name>
-            <email>geekidea@qq.com</email>
+            <id>insurance_wj</id>
+            <name>wangwy</name>
         </developer>
     </developers>
 
